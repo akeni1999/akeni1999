@@ -16,6 +16,9 @@
 
     Cloud Technologies: AWS ( Amazon Web Services ) - S3, EC2, RDS
 
+•	As for my future 🔭 I hope to one day work as a Data Analyst and work with a diverse team.
+
+•  How to reach me 📫 : akeni0926@gmail.com or [LinkedIn](https://www.linkedin.com/in/adityaakeni/) inmail.
 
 
 <!--
