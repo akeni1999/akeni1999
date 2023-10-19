@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 •	👋🏽 My name is Aditya Keni.
-•	🎓 Recent grad with a Master of Science in Data Analytics Engineering (2023).
+
+•	🎓 Recent grad with a Master of Science in Data Analytics Engineering (2023). 
 •	🔭 I am a data enthusiast who enjoys working with data to generate insights to drive informed business decisions. I am passionate about using data to drive decision-making and constantly seek new challenges and opportunities to learn and grow.
 •	💻 As for my future, I hope to one day work as a Data Analyst and work with a diverse team.
 •	💪🏽 I am well-equipped with following skills:
