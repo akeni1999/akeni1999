@@ -6,15 +6,13 @@
 
 •	I hold a Master of Science 🎓 in Data Analytics Engineering from George Mason University, with expertise 💪 in the following areas:
 
-    Programming Languages: Python, R 
-
-    Visualization Tools: Tableau, Microsoft Power BI
-
-    Libraries: scikit-learn, NumPy, SciPy, Pandas, NLTK, spaCy, Plotly
-
-    Databases: MySQL, MongoDB, PostgreSQL
-
-    Cloud Technologies: AWS ( Amazon Web Services ) - S3, EC2, RDS
+    Programming: Python, R, HTML5, CSS, Bootstrap
+   
+    Software & Tools: Tableau, Microsoft Power BI, Microsoft Excel
+    
+    Technologies: Cloud Platform (AWS), MySQL, MS SQL Server, MongoDB
+    
+    Libraries: Scikit-learn, Pandas, Numpy, Matplotlib, Plotly, Seaborn, Beautiful Soup, ggplot2, NLTK
 
 •	As for my future 🔭 I hope to one day work as a Data Analyst and work with a diverse team.
 
