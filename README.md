@@ -12,11 +12,15 @@
 
     Database Management Systems: MySQL, PostgreSQL, MongoDB
 
+    Google Cloud Platform: Big Query, Cloud Composer, Dataflow, Apache Airflow
+
+    ETL Tools: Datastage, Control-M
+
     Project Management Tools: JIRA, Asana
 
     Libraries: Scikit-learn, Pandas, Numpy, Matplotlib, Plotly, Seaborn, Beautiful Soup, ggplot2, dplyr, tidyr
 
-    Certifications: Tableau Desktop Specialist, AWS Certified Cloud Practitioner,PCEP-30-01(Certified Python Programmer)
+    Certifications: Tableau Desktop Specialist, AWS Certified Cloud Practitioner, PCEP-30-01(Certified Python Programmer)
 
 •	As for my future 🔭 I hope to one day work as a Data Analyst and work with a diverse team.
 
