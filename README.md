@@ -20,7 +20,7 @@
 
     Libraries: Scikit-learn, Pandas, Numpy, Matplotlib, Plotly, Seaborn, Beautiful Soup, ggplot2, dplyr, tidyr
 
-    Certifications: Tableau Desktop Specialist, AWS Certified Cloud Practitioner, PCEP-30-01(Certified Python Programmer)
+    Certifications: Tableau Desktop Specialist, GCP Associate Cloud Engineer, AWS Certified Cloud Practitioner, PCEP-30-01(Certified Python Programmer)
 
 •	As for my future 🔭 I hope to one day work as a Data Analyst and work with a diverse team.
 
